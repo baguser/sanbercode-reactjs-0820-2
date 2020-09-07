@@ -23,7 +23,7 @@ class Clock extends React.Component {
   render() {
     return (
       <h2 style ={{textAlign: "center"}}>
-        Sekarang Jam : {this.state.date.toLocaleTimeString()} AM
+        Sekarang Jam : {this.state.date.toLocaleTimeString()}
       </h2>
     )
   }
