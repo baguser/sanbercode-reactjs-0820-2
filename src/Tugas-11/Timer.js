@@ -44,7 +44,6 @@ class Timer extends Component{
     return(
 
       <div style ={{textAlign: "center"}}>
-      
         Hitung Mundur {this.state.time}
 
 
